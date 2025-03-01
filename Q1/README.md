@@ -1,5 +1,6 @@
 # Python Docker Manager
-**@lulaide**
+此工具使用 Python编写，使用 [docker](https://pypi.org/project/docker/) 库与 docker进程 进行交互
+[**@lulaide**](https://github.com/lulaide)
 ## 1.快速开始
 - 安装依赖
 ```bash
